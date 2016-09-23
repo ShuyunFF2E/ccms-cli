@@ -2,6 +2,10 @@
   "name": "ccms-cli",
   "version": "0.0.1",
   "description": "Command line tool for Shuyun CCMS projects.",
+  "preferGlobal": true,
+  "bin": {
+    "ccms": "bin/ccms"
+  },
   "main": "bin/ccms",
   "dependencies": {
     "chalk": "^1.1.3",
