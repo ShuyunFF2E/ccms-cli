@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
 require('babel-register')();
-require('../lib/ccms-new');
+require('../lib/ccms-init');
 
