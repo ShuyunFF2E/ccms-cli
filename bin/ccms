@@ -1,5 +1,4 @@
 #!/usr/bin/env node
 
-require('babel-register')(require('./babel-config'));
-require('../lib/ccms-cli');
+require('babel-wrapper')('../lib/ccms-cli');
 
