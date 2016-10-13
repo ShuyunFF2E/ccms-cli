@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
 require('babel-polyfill');
-require('babel-wrapper')('../lib/ccms-cli');
+require('babel-wrapper')('../lib/ccms-cli', { only: /ccms-cli\/lib/ });
 
