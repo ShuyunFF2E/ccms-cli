@@ -26,6 +26,7 @@
     "eslint-config-shuyun": "github:shuyunff2e/eslint-config-shuyun"
   },
   "eslintConfig": {
+    "parser": "babel-eslint",
     "extends": "shuyun/nodejs"
   },
   "repository": {
