@@ -1,6 +1,6 @@
 # ccms-cli
 
-Command line tool for Shuyun CCMS projects.
+Command line tool for [Shuyun CCMS projects](https://github.com/ShuyunFF2E/ccms-angular-styleguide).
 
 ## Usage
 
